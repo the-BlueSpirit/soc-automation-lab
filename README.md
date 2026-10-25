@@ -118,7 +118,7 @@ Kali Linux built as the dedicated attacker box.
 
 ![Suricata Nmap port scan alert](screenshots/Suricata_Nmap_Port_Scan_Alert.png)
 
-![Suricata Nmap port scan alert, detail](screenshots/Suricata_Nmap_Port_Scan_Alert.png)
+![Suricata Nmap port scan alert, detail](screenshots/Suricata_Nmap_Port_Scan_Alert2.png)
 
 ### 6. Automated response - Shuffle SOAR
 
